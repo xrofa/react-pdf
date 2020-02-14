@@ -1,10 +1,10 @@
 {
-  "name": "@react-pdf/renderer",
+  "name": "@xrofa/renderer",
   "version": "1.6.8",
   "license": "MIT",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
+  "author": "Christian Sousa <christian.sousa@protonmail.ch>",
   "homepage": "https://github.com/diegomura/react-pdf#readme",
-  "repository": "git@github.com:diegomura/react-pdf.git",
+  "repository": "git@github.com:xrofa/react-pdf.git",
   "main": "dist/react-pdf.cjs.js",
   "module": "dist/react-pdf.es.js",
   "browser": {
